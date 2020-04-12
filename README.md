@@ -1,0 +1,2 @@
+# onestoppega
+static assets
